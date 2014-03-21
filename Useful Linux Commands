@@ -12,3 +12,4 @@ sudo do-release-upgrade -d 		# Ubuntu Distribution Upgrade
 google-chrome --proxy-server="http://172.16.1.2:8080"  # user google chrome with proxy
 grep -Ri "word_to_search" /*			# Find a word in any file on the filesystem
 curl ifconfig.met				# Determine Public IP
+curk ipinfo.io          # Idem
