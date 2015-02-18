@@ -1,0 +1,932 @@
+# Ce fichier viminfo a été généré par Vim 7.4.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/alias
+
+# Dernier motif de recherche Substitue  :
+~MSle0&^" \a
+
+# Historique ligne de commande (chronologie décroissante) :
+:q
+:wq
+:w
+:q!
+:wq!
+:set syntax=tex
+:set syntax=off
+:set syntax=latex
+:vsplit directory.tex
+:syntax=latex
+:vsplit mail.tex
+:split mail.tex
+:vsplit sauvegarde.tex
+:vsplit toip.tex
+:e toip.tex
+:e mail.tex
+:vsplit dhcp.tex
+:wqa
+:set wrap
+:vsplit content.tex
+:split dhcp.tex
+:set syn=tex
+:e directory.tex
+:vsplit title.tex
+:e analyse.tex
+:NERDTree
+:syn off
+:syn on
+:syntax enable
+:e introduction.tex
+:e title.tex
+:vsplit ~/.vimswap/directory.tex.swn
+:syn enable
+:syn latex
+:Gstatus
+:split title.tex
+:set ai
+:W
+:vsplit analyse/title.tex
+:runtime syntax/colortest.vim
+:help xterm-color
+:colorscheme inkpot
+:colorscheme desert256
+:AirlineTheme dark
+:AirlineTheme wombat
+:AirlineTheme molokai
+:AirlineTheme base16
+:AirlineTheme badwolf
+:statusline
+:help airline
+:Helptags
+:help NERD_tree.txt
+:w!
+:Q
+
+# Historique chaîne de recherche (chronologie décroissante) :
+?/alias
+?/blue
+?/grey
+?/sub
+?/mul
+?/NERD
+?/autocmd StdinReadPre
+?/autocmd
+?/it
+?/glossary
+?/verlaufd
+?/256
+? ^" \a
+?/root
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Registres :
+"0	LINE	0
+	{\chaptertitlename\thechapter}{20pt}{\Huge}
+"1	LINE	0
+	{\chaptertitlename\thechapter}{20pt}{\Huge}
+"2	LINE	0
+	
+"3	LINE	0
+	\clearpage
+"4	LINE	0
+	
+"5	LINE	0
+	\clearpage
+"6	LINE	0
+	        \hline
+	        Chiffrement SSL & Oui & Oui \\
+	        \hline
+"7	LINE	0
+	        Accès délégués & Oui & Non \\
+"8	LINE	0
+	            \hline
+"9	LINE	0
+	            Configuration du client mail & Automatique & {\cellcolor[cmyk]{0,0.10,0.57,0}Manuelle} \\
+""-	CHAR	0
+	t
+
+# Marques dans le fichier :
+'0  6  0  ~/NERD_tree_1
+'1  6  0  ~/Documents/Linux/NERD_tree_1
+'2  15  0  ~/Documents/Linux/NERD_tree_1
+'3  24  0  ~/Documents/Linux/NERD_tree_1
+'4  33  0  ~/Documents/Linux/NERD_tree_1
+'5  42  0  ~/Documents/Linux/NERD_tree_1
+'6  51  0  ~/Documents/Linux/NERD_tree_1
+'7  60  0  ~/Documents/Linux/NERD_tree_1
+'8  6  0  ~/Documents/NERD_tree_1
+'9  15  0  ~/Documents/NERD_tree_1
+
+# Liste de sauts (le plus récent en premier) :
+-'  6  0  ~/NERD_tree_1
+-'  75  2  ~/NERD_tree_1
+-'  1  0  ~/NERD_tree_1
+-'  3  0  ~/.vimrc.local
+-'  6  0  ~/Documents/Linux/NERD_tree_1
+-'  10  2  ~/Documents/Linux/NERD_tree_1
+-'  1  0  ~/Documents/Linux/NERD_tree_1
+-'  1  0  ~/Documents/Linux/README.md
+-'  15  0  ~/Documents/Linux/NERD_tree_1
+-'  19  2  ~/Documents/Linux/NERD_tree_1
+-'  14  16  ~/Documents/Linux/UsefulLinuxCommands
+-'  24  0  ~/Documents/Linux/NERD_tree_1
+-'  28  2  ~/Documents/Linux/NERD_tree_1
+-'  15  0  ~/Documents/Linux/UsefulLinuxCommands
+-'  33  0  ~/Documents/Linux/NERD_tree_1
+-'  37  2  ~/Documents/Linux/NERD_tree_1
+-'  1  0  ~/Documents/Linux/UsefulLinuxCommands
+-'  42  0  ~/Documents/Linux/NERD_tree_1
+-'  46  2  ~/Documents/Linux/NERD_tree_1
+-'  1  0  ~/Documents/Linux/Useful Linux Commands
+-'  51  0  ~/Documents/Linux/NERD_tree_1
+-'  55  2  ~/Documents/Linux/NERD_tree_1
+-'  2  7  ~/Documents/Linux/installedPackages
+-'  60  0  ~/Documents/Linux/NERD_tree_1
+-'  64  2  ~/Documents/Linux/NERD_tree_1
+-'  4  0  ~/Documents/Linux/installedPackages
+-'  6  0  ~/Documents/NERD_tree_1
+-'  10  2  ~/Documents/NERD_tree_1
+-'  1  0  ~/Documents/NERD_tree_1
+-'  2  22  ~/Documents/Minecraft
+-'  15  0  ~/Documents/NERD_tree_1
+-'  18  2  ~/Documents/NERD_tree_1
+-'  6  0  /tmp/yaourt-tmp-fox/aur-hstr-git/NERD_tree_1
+-'  8  2  /tmp/yaourt-tmp-fox/aur-hstr-git/NERD_tree_1
+-'  1  0  /tmp/yaourt-tmp-fox/aur-hstr-git/NERD_tree_1
+-'  1  0  /tmp/yaourt-tmp-fox/aur-hstr-git/PKGBUILD
+-'  6  0  /etc/zsh/NERD_tree_1
+-'  8  2  /etc/zsh/NERD_tree_1
+-'  1  0  /etc/zsh/NERD_tree_1
+-'  53  0  /etc/zsh/zshrc
+-'  6  0  ~/.config/geany/filedefs/NERD_tree_1
+-'  52  2  ~/.config/geany/filedefs/NERD_tree_1
+-'  1  0  ~/.config/geany/filedefs/NERD_tree_1
+-'  1  0  ~/.config/geany/filedefs/filetypes.README
+-'  57  0  ~/.config/geany/filedefs/NERD_tree_1
+-'  103  2  ~/.config/geany/filedefs/NERD_tree_1
+-'  1  0  ~/.config/geany/filedefs/filetypes.
+-'  6  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  29  2  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  1  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  139  10  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/analyse.tex
+-'  34  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  57  2  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  5  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/analyse.tex
+-'  62  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  85  2  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  1  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/analyse.tex
+-'  90  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  113  2  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  144  11  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/analyse.tex
+-'  118  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  141  2  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  1  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/title.tex
+-'  75  38  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/sauvegarde.tex
+-'  142  18  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/analyse.tex
+-'  172  0  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  193  2  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+-'  68  197  /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/toip.tex
+-'  80  0  ~/NERD_tree_1
+-'  147  2  ~/NERD_tree_1
+-'  6  0  /etc/NERD_tree_1
+-'  157  2  /etc/NERD_tree_1
+-'  1  0  /etc/NERD_tree_1
+-'  37  0  /etc/pacman.conf
+-'  6  0  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  24  2  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  1  0  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  25  38  ~/Documents/projetTut/analyse/directory.tex
+-'  29  0  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  47  2  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  38  14  ~/Documents/projetTut/analyse/directory.tex
+-'  52  0  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  70  2  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  112  0  ~/Documents/projetTut/analyse/analyse.tex
+-'  36  14  ~/Documents/projetTut/analyse/directory.tex
+-'  121  0  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  139  2  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  2  0  ~/Documents/projetTut/analyse/directory.tex
+-'  144  0  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  162  2  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  1  26  ~/Documents/projetTut/analyse/directory.tex
+-'  167  0  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  185  2  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  190  0  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  208  2  ~/Documents/projetTut/analyse/NERD_tree_1
+-'  125  0  ~/Documents/projetTut/analyse/analyse.tex
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.vimrc.local
+	"	3	0
+	^	3	1
+	.	3	0
+	+	1	26
+	+	2	26
+	+	5	37
+	+	4	0
+	+	5	0
+	+	3	0
+
+> ~/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Documents/Linux/README.md
+	"	1	0
+
+> ~/Documents/Linux/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Documents/Linux/UsefulLinuxCommands
+	"	15	47
+	^	15	48
+	.	15	47
+	+	14	16
+	+	15	47
+
+> ~/Documents/Linux/Useful Linux Commands
+	"	1	0
+
+> ~/Documents/Linux/installedPackages
+	"	2	7
+	^	2	8
+	.	2	7
+	+	1	23
+	+	2	7
+
+> ~/Documents/Minecraft
+	"	1	10
+	^	1	11
+	.	1	10
+	+	2	22
+	+	1	10
+
+> ~/Documents/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> /tmp/yaourt-tmp-fox/aur-hstr-git/PKGBUILD
+	"	22	60
+	^	22	61
+	.	22	60
+	+	21	76
+	+	22	60
+
+> /tmp/yaourt-tmp-fox/aur-hstr-git/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+
+> /etc/zsh/zshrc
+	"	10	15
+	^	10	16
+	.	10	15
+	+	52	0
+	+	53	0
+	+	8	16
+	+	9	14
+	+	10	15
+
+> /etc/zsh/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/.config/geany/filedefs/filetypes.README
+	"	1	0
+
+> ~/.config/geany/filedefs/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/.config/geany/filedefs/filetypes.
+	"	1	0
+
+> /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/analyse.tex
+	"	57	40
+	^	65	1
+	.	65	0
+	+	144	5
+	+	145	0
+	+	144	22
+	+	141	9
+	+	137	9
+	+	57	38
+	+	115	48
+	+	83	32
+	+	85	29
+	+	94	29
+	+	56	16
+	+	62	67
+	+	79	11
+	+	79	11
+	+	90	11
+	+	64	75
+	+	66	0
+	+	64	53
+	+	65	32
+	+	64	22
+	+	65	3
+	+	64	0
+	+	65	0
+
+> /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/directory.tex
+	"	58	0
+	^	58	1
+	.	58	1
+	+	1	1
+	+	5	1
+	+	58	1
+
+> /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/dhcp.tex
+	"	1	0
+	^	1	1
+	.	1	1
+	+	1	1
+
+> /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/mail.tex
+	"	82	0
+	^	1	1
+	.	83	0
+	+	1	0
+	+	83	0
+
+> /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/toip.tex
+	"	68	10
+	^	1	1
+	.	1	1
+	+	68	696
+	+	66	12
+	+	68	308
+	+	68	392
+	+	68	469
+	+	68	634
+	+	69	0
+	+	1	1
+
+> /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/sauvegarde.tex
+	"	72	0
+	^	70	36
+	.	73	0
+	+	1	23
+	+	4	202
+	+	4	309
+	+	4	212
+	+	4	396
+	+	4	224
+	+	4	322
+	+	4	23
+	+	75	276
+	+	75	856
+	+	75	941
+	+	75	79
+	+	75	367
+	+	75	368
+	+	75	1101
+	+	4	330
+	+	4	319
+	+	4	127
+	+	4	225
+	+	4	333
+	+	75	27
+	+	2	317
+	+	1	1
+	+	6	0
+	+	75	0
+	+	69	0
+	+	18	59
+	+	18	176
+	+	22	63
+	+	24	43
+	+	26	25
+	+	28	18
+	+	30	37
+	+	32	63
+	+	35	0
+	+	35	0
+	+	34	49
+	+	36	0
+	+	37	0
+	+	38	0
+	+	40	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	48	0
+	+	51	26
+	+	56	0
+	+	56	0
+	+	53	20
+	+	53	57
+	+	69	0
+	+	53	89
+	+	55	52
+	+	57	51
+	+	55	31
+	+	57	33
+	+	59	30
+	+	61	45
+	+	65	64
+	+	65	30
+	+	61	55
+	+	63	56
+	+	65	109
+	+	67	42
+	+	67	44
+	+	65	73
+	+	69	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	40	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	48	0
+	+	37	31
+	+	70	35
+	+	75	0
+	+	73	0
+
+> /run/media/fox/BLUE/Université/Cours/Projet Tuteuré/analyse/title.tex
+	"	19	24
+	^	19	20
+	.	6	0
+	+	4	0
+	+	5	4
+	+	4	48
+	+	5	0
+	+	5	0
+	+	2	0
+	+	1	26
+	+	24	0
+	+	2	13
+	+	3	22
+	+	4	22
+	+	22	0
+	+	21	0
+	+	24	0
+	+	7	78
+	+	12	30
+	+	19	19
+	+	6	0
+
+> /etc/pacman.conf
+	"	91	0
+	^	37	0
+	.	91	0
+	+	37	0
+	+	90	0
+	+	91	0
+
+> /etc/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/Documents/projetTut/analyse/directory.tex
+	"	58	0
+	^	52	14
+	.	52	13
+	+	2	0
+	+	16	0
+	+	21	368
+	+	21	70
+	+	23	61
+	+	21	61
+	+	23	49
+	+	39	61
+	+	25	39
+	+	19	20
+	+	15	30
+	+	52	13
+
+> ~/Documents/projetTut/analyse/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Documents/projetTut/analyse/analyse.tex
+	"	115	0
+	^	56	38
+	.	56	36
+	+	12	27
+	+	3	0
+	+	12	0
+	+	3	0
+	+	12	27
+	+	3	16
+	+	4	17
+	+	3	0
+	+	4	29
+	+	4	19
+	+	4	0
+	+	3	0
+	+	4	0
+	+	127	0
+	+	128	0
+	+	127	0
+	+	130	0
+	+	138	0
+	+	138	0
+	+	130	9
+	+	138	0
+	+	130	22
+	+	131	22
+	+	130	9
+	+	130	0
+	+	131	22
+	+	137	8
+	+	137	0
+	+	134	26
+	+	130	0
+	+	127	7
+	+	132	10
+	+	138	9
+	+	154	0
+	+	138	10
+	+	135	40
+	+	139	0
+	+	140	0
+	+	140	0
+	+	140	0
+	+	140	0
+	+	140	0
+	+	141	0
+	+	143	0
+	+	145	0
+	+	147	0
+	+	149	0
+	+	151	0
+	+	154	0
+	+	159	0
+	+	160	0
+	+	161	0
+	+	154	8
+	+	157	11
+	+	137	0
+	+	139	0
+	+	136	0
+	+	131	0
+	+	161	0
+	+	160	0
+	+	159	0
+	+	128	0
+	+	84	32
+	+	86	29
+	+	84	32
+	+	86	29
+	+	95	29
+	+	61	34
+	+	111	0
+	+	112	0
+	+	110	0
+	+	109	0
+	+	116	48
+	+	42	55
+	+	125	0
+	+	134	0
+	+	56	36
+
+> ~/Documents/projetTut/analyse/title.tex
+	"	5	0
+	^	4	45
+	.	4	45
+	+	4	68
+	+	6	14
+	+	8	74
+	+	16	17
+	+	20	17
+	+	21	0
+	+	4	0
+	+	8	74
+	+	11	0
+	+	21	8
+	+	14	1
+	+	12	18
+	+	13	1
+	+	4	63
+	+	13	39
+	+	12	19
+	+	13	3
+	+	8	78
+	+	6	0
+	+	11	20
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	3
+	+	15	13
+	+	12	18
+	+	11	0
+	+	15	0
+	+	14	1
+	+	13	1
+	+	12	1
+	+	11	6
+	+	12	19
+	+	13	49
+	+	21	16
+	+	13	2
+	+	4	45
+
+> ~/Documents/projetTut/analyse/dhcp.tex
+	"	53	10
+	^	48	14
+	.	48	13
+	+	1	17
+	+	2	345
+	+	3	262
+	+	2	343
+	+	3	262
+	+	5	9
+	+	6	0
+	+	8	0
+	+	15	87
+	+	17	21
+	+	19	39
+	+	37	8
+	+	39	7
+	+	41	7
+	+	43	7
+	+	45	7
+	+	37	24
+	+	37	19
+	+	35	41
+	+	37	13
+	+	41	45
+	+	43	59
+	+	45	80
+	+	41	13
+	+	47	56
+	+	45	53
+	+	13	22
+	+	9	30
+	+	50	28
+	+	48	13
+
+> ~/Documents/projetTut/analyse/content.tex
+	"	4	8
+
+> ~/Documents/projetTut/analyse/NERD_tree_2
+	"	19	2
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/Documents/projetTut/analyse/introduction.tex
+	"	1	0
+	^	1	300
+	.	1	0
+	+	1	22
+	+	1	299
+	+	1	0
+
+> ~/.vimswap/directory.tex.swn
+	"	1	0
+
+> ~/Documents/projetTut/analyse/analyse.t
+	"	1	0
+
+> ~/.vimrc
+	"	158	10
+	^	3	1
+	.	3	0
+	+	2	0
+	+	1	0
+	+	3	0
+	+	1	0
+	+	3	0
+
+> ~/.vim.20150202_1422914810/[Vundle] Installer
+	"	70	0
+	.	1	0
+	+	1	0
+
+> ~/.vim.20150202_1422914810/[Vundle] clean
+	"	2	0
+	.	1	0
+	+	1	0
+
+> /etc/vimrc
+	"	17	0
+
+> ~/Documents/projetTut/analyse/abschluss.tex
+	"	145	0
+	^	145	0
+	.	143	0
+	+	10	17
+	+	38	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	40	78
+	+	41	18
+	+	42	51
+	+	43	18
+	+	45	63
+	+	46	88
+	+	47	51
+	+	49	3
+	+	50	0
+	+	51	0
+	+	52	0
+	+	53	0
+	+	54	0
+	+	55	0
+	+	62	0
+	+	61	38
+	+	63	69
+	+	56	32
+	+	101	12
+	+	102	13
+	+	56	34
+	+	57	15
+	+	56	30
+	+	57	30
+	+	58	31
+	+	102	14
+	+	107	37
+	+	124	0
+	+	127	0
+	+	128	0
+	+	129	0
+	+	131	0
+	+	132	0
+	+	133	0
+	+	134	0
+	+	136	0
+	+	139	0
+	+	126	0
+	+	123	0
+	+	130	0
+	+	138	0
+	+	140	0
+	+	141	0
+	+	142	0
+	+	143	0
+
+> ~/Documents/projetTut/Documents/analyse.txt
+	"	1	0
+
+> ~/Documents/projetTut/abschluss.tex
+	"	33	97
+	^	10	18
+	.	10	17
+	+	10	17
+
+> ~/install.sh
+	"	1	0
+	^	4	1
+	.	4	0
+	+	4	0
+
+> /usr/share/vim/vim74/doc/syntax.txt
+	"	5154	4
+
+> /usr/share/vim/vim74/syntax/colortest.vim
+	"	81	0
+
+> ~/uninstall.sh
+	"	1	0
+	^	28	62
+	.	28	0
+	+	28	0
+
+> ~/.vim/bundle/vim-airline/doc/airline.txt
+	"	14	19
+
+> ~/.vim/bundle/nerdtree/doc/NERD_tree.txt
+	"	51	0
+
+> ~/.viminfo
+	"	1	0
+
+> ~/.zshrc
+	"	9	0
+	^	28	54
+	.	28	10
+	+	13	0
+	+	8	0
+	+	13	0
+	+	8	0
+	+	13	15
+	+	8	0
+	+	13	0
+	+	9	17
+	+	13	0
+	+	9	0
+	+	13	0
+	+	10	17
+	+	11	0
+	+	10	0
+	+	11	16
+	+	12	0
+	+	11	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	9	0
+	+	9	0
+	+	29	0
+	+	28	10
+
+> ~/.zshrc.zni
+	"	1	0
+
+> ~/oh
+	"	1	0
+
+> ~/starxrandr
+	"	1	8
+	^	1	9
+	.	1	8
+	+	2	58
+	+	1	8

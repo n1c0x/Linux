@@ -1,0 +1,5 @@
+autocmd VimEnter * NERDTree
+autocmd VimEnter * wincmd p
+:set wrap
+"":set linebreak
+"":set nolist  " list disables linebreak"

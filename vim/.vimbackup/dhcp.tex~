@@ -1,0 +1,55 @@
+\subsection{DHCP}
+    Le service DHCP\footnote{Dynamic Host Configuration Protocol} permet de fournir de manière dynamique des adresse IP valides aux ordinateurs clients et autres périphériques réseaux. De plus, le DHCP fournit également des paramètres de configuration supplémentaires comme le nom de domaine, l'adresse IP du serveur DNS ou la gateway. La nouveauté proposée par Windows serveur 2012 R2 est la fonction de failover qui permet la bascule entre le serveur principal et le serveur secondaire en cas de panne du premier. \\
+    Vous utilisez déjà un serveur DHCP pour la configuration des adresses IP des différents équipements réseau. Pour des raisons de simplicité et de practicité, vous souhaitez garder cette solution pour la configuration des adresses IP. Notre proposition est de vous installer la dernière version de Windows Server 2012 R2 afin d'assurer cette fonction de failover, permettant de ce fait une haute disponibilité du service en cas de panne.
+
+\clearpage
+
+
+\setlength{\tabcolsep}{18pt}
+\renewcommand{\arraystretch}{2}
+
+\begin{table}[t!]
+\centering
+\begin{tabular}{|p{95mm}|c|}
+        \hline
+        \multicolumn{2}{|l|}{\cellcolor[cmyk]{0.42,0.09,0,0.24}{\textbf{DHCP Server 2012}}} \\
+        \hline
+        \multicolumn{2}{|l|}{\cellcolor[cmyk]{0.20,0.05,0,0.05}\textbf{Caractéristiques}} \\
+        \hline
+        Plateforme & Windows Server 2012 \\
+        \hline
+        Prérequis & Aucun \\
+        \hline
+        Payant & Licence Serveur \\
+        \hline
+        Prix & Environ 500€ \\
+        \hline
+        Langue & Français \\
+        \hline
+        Complexité de mise en place et d'administration & 1 \\
+        \hline
+        Support inclus & Oui \\
+        \hline
+        \multicolumn{2}{|l|}{\cellcolor[cmyk]{0.20,0.05,0,0.05}\textbf{Fonctionnalités}} \\
+        \hline
+        Interface graphique de gestion & Oui \\
+        \hline
+        Failover & Oui \\
+        \hline
+        Integration de Powershell & Oui \\
+        \hline
+        Gestion de conflit d'adresses IP & Oui \\
+        \hline
+       Configuration des postes clients sur le réseau & Oui \\
+        \hline
+        Configuration d'informations complémentaires (DNS, Proxy, etc.) & Oui \\
+        \hline
+        Processus de renouvellement de bail DHCP & Oui \\
+        \hline
+    \end{tabular}
+    \caption{\label{dhcp}DHCP}
+\end{table}
+
+Nous vous proposons la mise en place de la solution DHCP de Microsoft, qui s'implémentera très facilement dans l'architecture. Une fois en place, sa configuration et sa gestion ainsi que la mise en place du failover est très simple et ne nécessite plus d'intervention par la suite
+
+\clearpage

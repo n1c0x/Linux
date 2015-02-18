@@ -1,0 +1,68 @@
+\section{Téléphonie}
+La téléphonie sur IP, ou VoIP\footnote{Voice over IP} est une technologie de transmission de la voix en utilisant le protocole IP. 
+La voix est numérisée puis acheminée par le réseau classique sous forme de paquets IP. 
+La téléphonie sur IP présente de nombreux avantages par rapport à la téléphonie classique comme la possibilité d'utiliser d'architecture IP existante (switchs, routeurs etc.) ou la réduction des dépenses avec l'utilisation de softphones avec micro-casques sur les PC clients, rendant l'utilisation de terminaux téléphoniques inutiles.
+De plus, utiliser une liaison de données lors de communications téléphoniques permet de mettre à la disposition des utilisateurs une grande quantité de services annexes comme la conférence à plusieurs, la QoS etc.
+
+\vspace{10mm}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{| L{50mm} | C{40mm} | C{40mm} | }
+        \hline
+        \cellcolor[cmyk]{0.42,0.09,0,0.24}\textbf{Téléphonie sur IP} & \cellcolor[cmyk]{0.42,0.09,0,0.24}\textbf{Asterisk} & \cellcolor[cmyk]{0.42,0.09,0,0.24}\textbf{3CX} \\
+        \hline
+        \multicolumn{3}{|l|}{\cellcolor[cmyk]{0.20,0.05,0,0.05}\textbf{Caractéristiques}} \\
+        \hline
+        Plateforme & Linux & Mac, Windows \\
+        \hline
+        Prérequis & Aucun & Aucun \\
+        \hline
+        Payant & Open Source & Oui \\
+        \hline
+        Prix & Gratuit & ~4000€ \\
+        \hline
+        Langue & Français & Français \\
+        \hline
+        Complexité de mise en place et d'administration & 2 & 2 \\
+        \hline
+        Support & Forum & Inclus \\
+        \hline
+\end{tabular}
+\caption{\label{toip1} Téléphonie sur IP - Caractéristiques}
+\end{table}
+
+\clearpage
+
+\begin{table}[h!]
+\centering
+\clearpage
+\begin{tabular}{| L{50mm} | C{40mm} | C{40mm} | }
+        \hline
+        \cellcolor[cmyk]{0.42,0.09,0,0.24}\textbf{Téléphonie sur IP} & \cellcolor[cmyk]{0.42,0.09,0,0.24}\textbf{Asterisk} & \cellcolor[cmyk]{0.42,0.09,0,0.24}\textbf{3CX} \\
+        \hline
+        \multicolumn{3}{|l|}{\cellcolor[cmyk]{0.20,0.05,0,0.05}\textbf{Fonctionnalités}} \\
+        \hline
+        Synchronisation LDAP & Oui & Oui\\
+        \hline
+        Appels en conférence & Oui & Oui \\
+        \hline
+        Appels en attente & Oui & Oui \\
+        \hline
+        File d'attente & Oui & Oui \\
+        \hline
+        Enregistrement d'appels & Oui & Oui \\
+        \hline
+        Messagerie & Oui & Oui \\
+        \hline
+        Recherche de personnes & Oui & Oui \\
+        \hline
+        Transferts d'appel & Oui & Oui \\
+        \hline
+    \end{tabular}
+    \caption{\label{toip2} Téléphonie sur IP - Fonctionnalités}
+\end{table}
+
+Notre choix de solution de Téléphonie sur IP est Asterisk en raison de sa simplicité de mise en place et de ses nombreuses fonctionnalités qui font qu'elle répond tout à fait à votre demande. De okysn Asterisk est une solution totalement gratuite qui s'installe sur Linux, lui aussi gratuit. Par conséquent, cette solution demandera uniquement un investissement matériel: les téléphones IP et les éventuels casques.
+
+\clearpage

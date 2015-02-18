@@ -1,0 +1,24 @@
+\begin{titlepage}
+	\begin{center}
+    \vspace*{\stretch{1}}
+%	\includegraphics[scale=0.4]{./uds.jpg}\\
+%	{\Huge Analyse}\\[50pt]
+	\begin{spacing}{3.0}
+		{\Huge Analyse technique du projet d'extension de l'entreprise Amaranche}\\[70pt]
+	\end{spacing}
+
+	{\Large
+	Client: Amaranche\\
+	Réalisation: Informatek \\[70pt]
+	}
+	{\large
+	Nicolas RENARD\\
+	Thomas GUGGENBUHL\\
+	Jean ARNOLDY\\
+	Romain REINHART\\
+	Julien HECKMANN\\[70pt]
+	13 Février 2015}\\
+
+    \vspace*{\stretch{1}}
+	\end{center}
+\end{titlepage}
