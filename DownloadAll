@@ -1,0 +1,4 @@
+1st step: get the list of all the links:
+https://github.com/n1c0x/Linux/blob/master/MSFTebooks.txt
+2nd step: download everything in one command:
+wget -i ./MSFTebooks.txt
