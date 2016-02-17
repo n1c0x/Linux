@@ -1,3 +1,7 @@
+/*
+* Add at the beginning of the markdown file:
+* <head><link rel="stylesheet" type="text/css" href="style.css"></head>
+*/
 body{
 	width: 55em;
 }
