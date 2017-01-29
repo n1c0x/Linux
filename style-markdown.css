@@ -1,6 +1,6 @@
 /*
 * Add at the beginning of the markdown file:
-* <head><link rel="stylesheet" type="text/css" href="style.css"></head>
+* <head><link rel="stylesheet" type="text/css" href="style-markdown.css"></head>
 */
 body{
 	width: 55em;
@@ -19,6 +19,25 @@ body{
 .red{
 	background-color: #D9534F;
 }
+.green{
+	background-color: #5CB85C;
+}
 .todo:before{
 	content: "A faire";
 }
+
+
+.separateur{
+	height: 2px; margin-top: 10px; margin-bottom: 10px;
+}
+.bleu_orange{background-color: rgba(75,180,230,1);}
+.jaune_orange{background-color: rgba(225,220,0,1);}
+.vert_orange{background-color: rgba(80,190,135,1);}
+.violet_orange{background-color: rgba(145,100,205,1);}
+.rose_orange{background-color: rgba(155,180,230,1);}
+.noir_orange{background-color: rgba(0,0,0,1);}
+.gris_fonce_orange{background-color: rgba(89,89,89,1);}
+.gris_moyen_orange{background-color: rgba(143,143,143,1);}
+.gris_clair_orange{background-color: rgba(214,214,214,1);color: rgba(89,89,89,1);border: 1px solid rgba(89,89,89,1);}
+.blanc_orange{background-color: rgba(255,255,255,1);color: rgba(89,89,89,1);border: 1px solid rgba(89,89,89,1);}
+.orange_orange{background-color: rgba(255,102,0,1);}
