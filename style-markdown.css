@@ -1,6 +1,6 @@
 /*
 * Add at the beginning of the markdown file:
-* <head><link rel="stylesheet" type="text/css" href="style-markdown.css"></head>
+* <head><link rel="stylesheet" type="text/css" href="http://cdn.foxblog.fr/style-markdown.css"><link rel="stylesheet" href="http://cdn.foxblog.fr/font-awesome/css/font-awesome.min.css"></head>
 */
 body{
 	width: 55em;
